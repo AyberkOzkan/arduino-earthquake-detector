@@ -21,3 +21,8 @@ The sensitivity was very low when it was first turned on. In order to increase i
 the AREF pin is connected to the 3V3 pin and the analogue inputs are set to 3.3V instead of 5V. 
 This made the ADXL335 work more smoothly.
 ```
+## Conclusion and Discussion
+> I had the opportunity to test the project with artificial vibrations and real earthquakes and the expected results were obtained. Thanks to its small design, it adapts well to the place where it is intended to be mounted. The fact that this place is the columns of the building will enable the sensor to work more accurately. In addition, with Arduino, we can adjust how natural gas, water or other smart home systems of important systems should behave in case of an earthquake. Vibration waves can be watched and recorded live on Processing with the help of a computer.
+```Bash
+
+```
