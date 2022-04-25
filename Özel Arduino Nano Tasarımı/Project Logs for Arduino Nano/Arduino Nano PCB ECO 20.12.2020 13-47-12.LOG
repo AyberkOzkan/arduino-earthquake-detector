@@ -1,0 +1,395 @@
+Added Component: Designator=C1(MY_0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ASiD Part Number"; Value = "C-AS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Volte"; Value = "50v"; VariantName = "[No Variations]"
+Added Component: Designator=C2(CASE A - 3216X18)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Supplier Website"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://za.rs-online.com/web/search/searchBrowseAction.html?method=getProduct&R=4963545"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "RS Data sheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://docs-europe.origin.electrocomponents.com/webdocs/04ed/0900766b804ed4cc.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "28-April-2010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "3216-18"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Originator"; Value = "H Theron"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "DPSS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Stock Nr."; Value = "496-3545"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4.7µF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Added Component: Designator=C3(CAPCP2012X09N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Capacitance"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Creator"; Value = "Ritesh Kanjee"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://za.rs-online.com/web/p/ceramic-multilayer-capacitors/4646688/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Date Created"; Value = "18 February 2015"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Stock No."; Value = "464-6688"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C4(MY_0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ASiD Part Number"; Value = "C-AS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Volte"; Value = "50v"; VariantName = "[No Variations]"
+Added Component: Designator=C5(CASE A - 3216X18)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Supplier Website"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://za.rs-online.com/web/search/searchBrowseAction.html?method=getProduct&R=4963545"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "RS Data sheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://docs-europe.origin.electrocomponents.com/webdocs/04ed/0900766b804ed4cc.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "28-April-2010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "3216-18"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Originator"; Value = "H Theron"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "DPSS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Stock Nr."; Value = "496-3545"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4.7µF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Added Component: Designator=C6(CASE A - 3216X18)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Supplier Website"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://za.rs-online.com/web/search/searchBrowseAction.html?method=getProduct&R=4963545"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "RS Data sheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://docs-europe.origin.electrocomponents.com/webdocs/04ed/0900766b804ed4cc.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "28-April-2010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "3216-18"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Originator"; Value = "H Theron"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "DPSS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Stock Nr."; Value = "496-3545"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4.7µF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Added Component: Designator=C7(MY_0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ASiD Part Number"; Value = "C-AS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Volte"; Value = "50v"; VariantName = "[No Variations]"
+Added Component: Designator=C8(MY_0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ASiD Part Number"; Value = "C-AS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Volte"; Value = "50v"; VariantName = "[No Variations]"
+Added Component: Designator=C9(CAPCP2012X09N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Capacitance"; Value = "18pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Creator"; Value = "Ayberk Özkan"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://za.rs-online.com/web/p/ceramic-multilayer-capacitors/6480935/?searchTerm=C0805C180J5GACTU&relevancy-data=636F3D3226696E3D4931384E4B6E6F776E41734D504E266C753D656E266D6D3D6D61746368616C6C7061727469616C26706D3D5E5B5C707B4C7D5C707B4E647D2D2C2F255C2E5D2B2426706F3D313326736E3D592673743D4D414E5F504152545F4E554D4245522677633D424F5448267573743D4330383035433138304A35474143545526"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Date Created"; Value = "18 February 2015"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Kemet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Stock No."; Value = "648-0935"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C10(CAPCP2012X09N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Capacitance"; Value = "18pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Creator"; Value = "Ayberk Özkan"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://za.rs-online.com/web/p/ceramic-multilayer-capacitors/6480935/?searchTerm=C0805C180J5GACTU&relevancy-data=636F3D3226696E3D4931384E4B6E6F776E41734D504E266C753D656E266D6D3D6D61746368616C6C7061727469616C26706D3D5E5B5C707B4C7D5C707B4E647D2D2C2F255C2E5D2B2426706F3D313326736E3D592673743D4D414E5F504152545F4E554D4245522677633D424F5448267573743D4330383035433138304A35474143545526"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Date Created"; Value = "18 February 2015"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Kemet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Stock No."; Value = "648-0935"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=D1(LED1913X12NYEL/ORANGE)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Color"; Value = "Orange"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Creator"; Value = "Ayberk Özkan"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://za.rs-online.com/web/p/visible-leds/4663790/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Date Created"; Value = "18 February 2015"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Voltage"; Value = "1.85V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "KingBright"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part No."; Value = "KP-2012SEC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Stock No."; Value = "466-3790"; VariantName = "[No Variations]"
+Added Component: Designator=D2(LED1913X12NGREEN)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Color"; Value = "Green"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Creator"; Value = "Ayberk Özkan"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://za.rs-online.com/web/p/visible-leds/4663778/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Date Created"; Value = "18 February 2015"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Voltage"; Value = "2.1 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "KingBright"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part No."; Value = "KP-2012MGC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Stock No."; Value = "466-3778"; VariantName = "[No Variations]"
+Added Component: Designator=D3(LED1913X12NRED)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Color"; Value = "RED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Creator"; Value = "Ayberk Özkan"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://za.rs-online.com/web/p/visible-leds/4663813/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Date Created"; Value = "18 February 2015"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Voltage"; Value = "1.85V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "KingBright"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part No."; Value = "KP-2012SRC-PRV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Stock No."; Value = "466-3813"; VariantName = "[No Variations]"
+Added Component: Designator=D4(LED1913X12NBLUE)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Color"; Value = "Blue"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Creator"; Value = "Ayberk Özkan"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://za.rs-online.com/web/p/visible-leds/4663784/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Date Created"; Value = "18 February 2015"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Voltage"; Value = "3.2V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "KingBright"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part No."; Value = "KP-2012PBC-A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Stock No."; Value = "466-3784"; VariantName = "[No Variations]"
+Added Component: Designator=J1(Header)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Created By"; Value = "Ayberk Özkan"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "3Amps Continuous"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Date Created"; Value = "1 March 2015"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "FCI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part No."; Value = "68000-236HLF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Stock No."; Value = "2509565626"; VariantName = "[No Variations]"
+Added Component: Designator=J2(Header)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Created By"; Value = "Ayberk Özkan"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "3Amps Continuous"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Date Created"; Value = "1 March 2015"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "FCI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part No."; Value = "68000-236HLF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Stock No."; Value = "2509565626"; VariantName = "[No Variations]"
+Added Component: Designator=J3(MOLEX_1050170001)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "rsdelivers"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://mt.rsdelivers.com/product/molex/105017-0001/molex-usb-connector-smt-socket-b-solder-right/8486764"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://docs.rs-online.com/4d62/0900766b813885f7.pdf"; VariantName = "[No Variations]"
+Added Component: Designator=RA1(1206 RA)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Creator"; Value = "Ayberk Özkan"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Date Created"; Value = "25 February 2015"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Bourns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part No."; Value = "CAY16-681J4LF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Stock No."; Value = "552-5579"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Wattage"; Value = "0.25W"; VariantName = "[No Variations]"
+Added Component: Designator=RA2(1206 RA)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Creator"; Value = "Ayberk Özkan"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Date Created"; Value = "25 February 2015"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Bourns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part No."; Value = "CAY16-102J4LF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Stock No."; Value = "552-5579"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Wattage"; Value = "0.25W"; VariantName = "[No Variations]"
+Added Component: Designator=S1(ISP HEADER)
+Add component. Clean all parameters for all variants
+Added Component: Designator=sw1(MY_TACTILE-SMD)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ASiD Part Number"; Value = "Tac switch-AS"; VariantName = "[No Variations]"
+Added Component: Designator=U1(MY_SOT223)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ASiD Part Number"; Value = "LM1117-AS"; VariantName = "[No Variations]"
+Added Component: Designator=U2(SSOP-28-FT232RL)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "SnapEda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.snapeda.com/parts/FT232RL/FTDI,%20Future/view-part/?ref=search&t=ft232rl"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "UltraLibrarian"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://app.ultralibrarian.com/details/e192f762-2577-11e9-ab3a-0a3560a4cccc/FTDI-Future-Technology-Devices-International-Ltd/FT232RL?open=backlink&exports=AltiumDesigner&exports=AltiumPCADV15"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "https://www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT232R.pdf"; VariantName = "[No Variations]"
+Added Component: Designator=U3(TQFP80P900X900X120-32N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://docs.rs-online.com/5775/0900766b80db4deb.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "za.rs-online"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://za.rs-online.com/web/p/microcontrollers/6963092/?searchTerm=6963092&relevancy-data=636F3D3126696E3D4931384E525353746F636B4E756D6265724D504E266C753D656E266D6D3D6D61746368616C6C26706D3D5E5C647B367D247C5E5C647B377D247C5E5C647B31307D2426706F3D313426736E3D592673743D52535F53544F434B5F4E554D4245522677633D4E4F4E45267573743D3639363330393226"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created by"; Value = "Ayberk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tarih"; Value = "11.12.2020"; VariantName = "[No Variations]"
+Added Component: Designator=X1(Aker S5C Crystal)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Creator"; Value = "Ayberk Özkan"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Frequency Stability"; Value = "+/-30ppm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "http://za.rs-online.com/web/p/crystal-units/6719488/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Load Capacitance"; Value = "12pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Aker"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part #"; Value = "C5S-16.000-12-3030-X"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "3.2x5mm SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS"; Value = "RS 671-9488"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Stock Nr."; Value = "671-9488"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "RS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "16MHz"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5 Pin=C4-2
+Added Pin To Net: NetName=+5 Pin=C5-1
+Added Pin To Net: NetName=+5 Pin=C6-1
+Added Pin To Net: NetName=+5 Pin=D2-2
+Added Pin To Net: NetName=+5 Pin=D3-2
+Added Pin To Net: NetName=+5 Pin=J2-4
+Added Pin To Net: NetName=+5 Pin=RA1-4
+Added Pin To Net: NetName=+5 Pin=RA2-5
+Added Pin To Net: NetName=+5 Pin=S1-2
+Added Pin To Net: NetName=+5 Pin=U1-2
+Added Pin To Net: NetName=+5 Pin=U1-2
+Added Pin To Net: NetName=+5 Pin=U1-2
+Added Pin To Net: NetName=+5 Pin=U1-2
+Added Pin To Net: NetName=+5 Pin=U1-2
+Added Pin To Net: NetName=+5 Pin=U1-2
+Added Pin To Net: NetName=+5 Pin=U1-2
+Added Pin To Net: NetName=+5 Pin=U1-2
+Added Pin To Net: NetName=+5 Pin=U2-4
+Added Pin To Net: NetName=+5 Pin=U2-20
+Added Pin To Net: NetName=+5 Pin=U3-4
+Added Pin To Net: NetName=+5 Pin=U3-6
+Added Pin To Net: NetName=+5 Pin=U3-18
+Added Net: Name=+5
+Added Pin To Net: NetName=3V3 Pin=C7-2
+Added Pin To Net: NetName=3V3 Pin=J2-14
+Added Pin To Net: NetName=3V3 Pin=U2-17
+Added Net: Name=3V3
+Added Pin To Net: NetName=A0 Pin=J2-5
+Added Pin To Net: NetName=A0 Pin=U3-23
+Added Net: Name=A0
+Added Pin To Net: NetName=A1 Pin=J2-6
+Added Pin To Net: NetName=A1 Pin=U3-24
+Added Net: Name=A1
+Added Pin To Net: NetName=A2 Pin=J2-7
+Added Pin To Net: NetName=A2 Pin=U3-25
+Added Net: Name=A2
+Added Pin To Net: NetName=A3 Pin=J2-8
+Added Pin To Net: NetName=A3 Pin=U3-26
+Added Net: Name=A3
+Added Pin To Net: NetName=A4 Pin=J2-9
+Added Pin To Net: NetName=A4 Pin=U3-27
+Added Net: Name=A4
+Added Pin To Net: NetName=A5 Pin=J2-10
+Added Pin To Net: NetName=A5 Pin=U3-28
+Added Net: Name=A5
+Added Pin To Net: NetName=A6 Pin=J2-11
+Added Pin To Net: NetName=A6 Pin=U3-19
+Added Net: Name=A6
+Added Pin To Net: NetName=A7 Pin=J2-12
+Added Pin To Net: NetName=A7 Pin=U3-22
+Added Net: Name=A7
+Added Pin To Net: NetName=AREF Pin=C8-2
+Added Pin To Net: NetName=AREF Pin=J2-13
+Added Pin To Net: NetName=AREF Pin=U3-20
+Added Net: Name=AREF
+Added Pin To Net: NetName=D2 Pin=J1-5
+Added Pin To Net: NetName=D2 Pin=U3-32
+Added Net: Name=D2
+Added Pin To Net: NetName=D3 Pin=J1-6
+Added Pin To Net: NetName=D3 Pin=U3-1
+Added Net: Name=D3
+Added Pin To Net: NetName=D4 Pin=J1-7
+Added Pin To Net: NetName=D4 Pin=U3-2
+Added Net: Name=D4
+Added Pin To Net: NetName=D5 Pin=J1-8
+Added Pin To Net: NetName=D5 Pin=U3-9
+Added Net: Name=D5
+Added Pin To Net: NetName=D6 Pin=J1-9
+Added Pin To Net: NetName=D6 Pin=U3-10
+Added Net: Name=D6
+Added Pin To Net: NetName=D7 Pin=J1-10
+Added Pin To Net: NetName=D7 Pin=U3-11
+Added Net: Name=D7
+Added Pin To Net: NetName=D8 Pin=J1-11
+Added Pin To Net: NetName=D8 Pin=U3-12
+Added Net: Name=D8
+Added Pin To Net: NetName=D9 Pin=J1-12
+Added Pin To Net: NetName=D9 Pin=U3-13
+Added Net: Name=D9
+Added Pin To Net: NetName=D10 Pin=J1-13
+Added Pin To Net: NetName=D10 Pin=U3-14
+Added Net: Name=D10
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=GND Pin=C5-2
+Added Pin To Net: NetName=GND Pin=C6-2
+Added Pin To Net: NetName=GND Pin=C7-1
+Added Pin To Net: NetName=GND Pin=C8-1
+Added Pin To Net: NetName=GND Pin=C9-1
+Added Pin To Net: NetName=GND Pin=C10-1
+Added Pin To Net: NetName=GND Pin=D1-2
+Added Pin To Net: NetName=GND Pin=D4-2
+Added Pin To Net: NetName=GND Pin=J1-4
+Added Pin To Net: NetName=GND Pin=J2-2
+Added Pin To Net: NetName=GND Pin=J3-5
+Added Pin To Net: NetName=GND Pin=S1-6
+Added Pin To Net: NetName=GND Pin=sw1-1
+Added Pin To Net: NetName=GND Pin=sw1-1
+Added Pin To Net: NetName=GND Pin=U1-1
+Added Pin To Net: NetName=GND Pin=U2-7
+Added Pin To Net: NetName=GND Pin=U2-18
+Added Pin To Net: NetName=GND Pin=U2-21
+Added Pin To Net: NetName=GND Pin=U2-25
+Added Pin To Net: NetName=GND Pin=U3-3
+Added Pin To Net: NetName=GND Pin=U3-5
+Added Pin To Net: NetName=GND Pin=U3-21
+Added Pin To Net: NetName=GND Pin=X1-2
+Added Pin To Net: NetName=GND Pin=X1-3
+Added Net: Name=GND
+Added Pin To Net: NetName=GREEN_TX Pin=RA1-3
+Added Pin To Net: NetName=GREEN_TX Pin=U2-22
+Added Net: Name=GREEN_TX
+Added Pin To Net: NetName=MISO Pin=J1-15
+Added Pin To Net: NetName=MISO Pin=S1-1
+Added Pin To Net: NetName=MISO Pin=U3-16
+Added Net: Name=MISO
+Added Pin To Net: NetName=MOSI Pin=J1-14
+Added Pin To Net: NetName=MOSI Pin=S1-4
+Added Pin To Net: NetName=MOSI Pin=U3-15
+Added Net: Name=MOSI
+Added Pin To Net: NetName=NetC1_2 Pin=C1-2
+Added Pin To Net: NetName=NetC1_2 Pin=U2-2
+Added Net: Name=NetC1_2
+Added Pin To Net: NetName=NetC9_2 Pin=C9-2
+Added Pin To Net: NetName=NetC9_2 Pin=U3-7
+Added Pin To Net: NetName=NetC9_2 Pin=X1-1
+Added Net: Name=NetC9_2
+Added Pin To Net: NetName=NetC10_2 Pin=C10-2
+Added Pin To Net: NetName=NetC10_2 Pin=U3-8
+Added Pin To Net: NetName=NetC10_2 Pin=X1-4
+Added Net: Name=NetC10_2
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=NetD1_1 Pin=RA1-5
+Added Net: Name=NetD1_1
+Added Pin To Net: NetName=NetD2_1 Pin=D2-1
+Added Pin To Net: NetName=NetD2_1 Pin=RA1-6
+Added Net: Name=NetD2_1
+Added Pin To Net: NetName=NetD3_1 Pin=D3-1
+Added Pin To Net: NetName=NetD3_1 Pin=RA1-7
+Added Net: Name=NetD3_1
+Added Pin To Net: NetName=NetD4_1 Pin=D4-1
+Added Pin To Net: NetName=NetD4_1 Pin=RA1-8
+Added Net: Name=NetD4_1
+Added Pin To Net: NetName=RED_RX Pin=RA1-2
+Added Pin To Net: NetName=RED_RX Pin=U2-23
+Added Net: Name=RED_RX
+Added Pin To Net: NetName=RESET Pin=C1-1
+Added Pin To Net: NetName=RESET Pin=J1-3
+Added Pin To Net: NetName=RESET Pin=J2-3
+Added Pin To Net: NetName=RESET Pin=RA2-1
+Added Pin To Net: NetName=RESET Pin=S1-5
+Added Pin To Net: NetName=RESET Pin=sw1-2
+Added Pin To Net: NetName=RESET Pin=sw1-2
+Added Pin To Net: NetName=RESET Pin=U3-29
+Added Net: Name=RESET
+Added Pin To Net: NetName=RXD Pin=RA2-7
+Added Pin To Net: NetName=RXD Pin=U2-5
+Added Net: Name=RXD
+Added Pin To Net: NetName=RX Pin=J1-1
+Added Pin To Net: NetName=RX Pin=RA2-3
+Added Pin To Net: NetName=RX Pin=U3-30
+Added Net: Name=RX
+Added Pin To Net: NetName=SCK Pin=J2-15
+Added Pin To Net: NetName=SCK Pin=RA1-1
+Added Pin To Net: NetName=SCK Pin=S1-3
+Added Pin To Net: NetName=SCK Pin=U3-17
+Added Net: Name=SCK
+Added Pin To Net: NetName=TXD Pin=RA2-6
+Added Pin To Net: NetName=TXD Pin=U2-1
+Added Net: Name=TXD
+Added Pin To Net: NetName=TX Pin=J1-2
+Added Pin To Net: NetName=TX Pin=RA2-2
+Added Pin To Net: NetName=TX Pin=U3-31
+Added Net: Name=TX
+Added Pin To Net: NetName=USBDM Pin=J3-2
+Added Pin To Net: NetName=USBDM Pin=U2-16
+Added Net: Name=USBDM
+Added Pin To Net: NetName=USBDP Pin=J3-3
+Added Pin To Net: NetName=USBDP Pin=U2-15
+Added Net: Name=USBDP
+Added Pin To Net: NetName=VUSB Pin=C2-1
+Added Pin To Net: NetName=VUSB Pin=C3-2
+Added Pin To Net: NetName=VUSB Pin=J2-1
+Added Pin To Net: NetName=VUSB Pin=J3-1
+Added Pin To Net: NetName=VUSB Pin=U1-3
+Added Net: Name=VUSB
+Added Class: Name=Arduino Nano
