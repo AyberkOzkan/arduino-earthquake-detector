@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Arduino Nano.PrjPcb]
+   Generated File[Arduino Nano-RoundHoles.TXT]
+   Generated File[Arduino Nano-SlotHoles.TXT]
+   Generated File[Arduino Nano.LDP]
+   Generated File[Arduino Nano.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 22:34:10 On 24.12.2020

@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\kenan\Desktop\Altium Projeler\Arduino Nano\Arduino Nano.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=arduino nano-roundholes.txt|DrillLayers=gtl,g1,g2,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=arduino nano-slotholes.txt|DrillLayers=gtl,g1,g2,gbl
