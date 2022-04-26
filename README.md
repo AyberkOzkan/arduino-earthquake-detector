@@ -23,6 +23,7 @@ This made the ADXL335 work more smoothly.
 ```
 ## Conclusion and Discussion
 > I had the opportunity to test the project with artificial vibrations and real earthquakes and the expected results were obtained. Thanks to its small design, it adapts well to the place where it is intended to be mounted. The fact that this place is the columns of the building will enable the sensor to work more accurately. In addition, with Arduino, we can adjust how natural gas, water or other smart home systems of important systems should behave in case of an earthquake. Vibration waves can be watched and recorded live on Processing with the help of a computer.
+> I designed an additional circuit to further increase its sensitivity.
 ```Bash
-
+The main logic of this circuit was this: to amplify only the useful part of the signal without amplifying harmful noise.
 ```
