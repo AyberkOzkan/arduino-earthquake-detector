@@ -27,3 +27,5 @@ This made the ADXL335 work more smoothly.
 ```Bash
 The main logic of this circuit was this: to amplify only the useful part of the signal without amplifying harmful noise.
 ```
+
+>To do this, the instrumental operational amplifier i.e. OPAMP, connected in differential mode, OP07 IC can be used as an example. It can be used in any OPAMP IC. Using the potentiometer, we must set the voltage V2 to be slightly lower than V1 and set the utility signal with a second potentiometer.
