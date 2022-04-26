@@ -32,3 +32,6 @@ The main logic of this circuit was this: to amplify only the useful part of the 
 >The formula for the amplification coefficient is 
 <p align = "center">Vout = (V1-V2) * K<p/>
 <p align = "center">K = 1 + 100 / P2 (kOhm)<p/>
+
+> This amplified signal must be connected to the analogue input of an Arduino microcontroller via a 1k resistor. 
+> To amplify the ADXL335's three outputs, we will need to use three identical amplifiers for each axis (x, y and z) separately.
